@@ -17,8 +17,8 @@ pygame.display.set_icon(icon)
 
 #Background image and sound
 background=pygame.image.load("images/background.jpg")
-mixer.music.load("images/epic-war-background-music-55-sec-361360.mp3")
-mixer.music.play()
+#mixer.music.load("images/epic-war-background-music-55-sec-361360.mp3")
+#mixer.music.play()
 
 #Player
 player_img=pygame.image.load("images/player.png")
